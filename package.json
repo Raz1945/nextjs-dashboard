@@ -33,11 +33,5 @@
       "bcrypt",
       "sharp"
     ]
-  },
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./*"]
-    }
   }
 }
